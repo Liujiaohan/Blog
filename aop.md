@@ -40,7 +40,7 @@ public void afterThrowing(Throwable ex) {
     System.out.println("ex = " + ex.getMessage());
 }
 ```
-2. @PointCount的使用
+2. @PointCut的使用
 ```
 @Pointcut是专门用来定义切点的，让切点表达式可以复用。
 举个例子
