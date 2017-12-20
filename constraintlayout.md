@@ -4,7 +4,7 @@
 
 * 基本使用
 
-![基本使用](https://github.com/Liujiaohan/Blog/blob/master/img/chain.gif?raw=true)
+![基本使用](https://github.com/Liujiaohan/Blog/blob/master/img/base.gif?raw=true)
 
 * 锁链的使用
 
